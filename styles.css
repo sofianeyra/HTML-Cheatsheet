@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans';
+    background-color: midnightblue;
+}
+
+h1 {
+    margin-top: -30px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 22%;
+    width: 56%;
+    border: 2px solid lightskyblue;
+    font-size: 1rem;
+    text-align: left;
+}
+
+thead {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: lightskyblue;
+}
+tr, td {
+    border: 2px solid lightskyblue;
+}
+ td {
+     color: white;
+}
+
+footer p {
+    padding-top: 20px;
+    color: white;
+}
+
+.centered {
+    text-align: center;
+}
+
+.white-text {
+    color: white;
+}
+
+
